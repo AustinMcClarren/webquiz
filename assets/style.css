@@ -1,0 +1,38 @@
+
+#start-Button{
+  background-color: #055dc2;
+  border: 2px solid #0004fa;
+  border-radius: 30px;
+  color: #FFFFFF;
+  display: block;
+  cursor: pointer;
+  margin: 0 auto;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  min-height: 60px;
+  padding: 16px 24px;
+  text-align: center;
+  width: 200px;
+}
+
+.hide {
+  display: none;
+}
+/* 
+.choices{
+   background-color: #072d58;
+  border: 2px solid #00affa;
+  border-radius: 30px;
+  color: #FFFFFF;
+  display: block;
+  cursor: pointer;
+  margin: 0 auto;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  min-height: 60px;
+  padding: 16px 24px;
+  text-align: center;
+  width: 200px;
+} */
